@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.0] - 2018-06-10
+### Added
+- Add new file test.php.
+- Add new functional in file test.php.
+
 ## [0.0.1] - 2018-06-10
 ### Fixed
 - Add function phpinfo() in index.php.
